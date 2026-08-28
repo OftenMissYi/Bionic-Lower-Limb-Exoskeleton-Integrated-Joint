@@ -1,0 +1,1568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Storage>
+  <Project Version="9.1">
+    <base-designpoint-name valType="String">0</base-designpoint-name>
+    <timestamp-max valType="Int64">16987</timestamp-max>
+    <framework-build-version valType="String">22.1.217.0</framework-build-version>
+    <external-version-string valType="String">2022 R1</external-version-string>
+    <last-saved-utc valType="String">04/19/2026 16:31:25</last-saved-utc>
+    <managed-categories valType="String">[report, misc, progress]</managed-categories>
+    <logHistory valType="StringArray">
+      <ArrayEntry Index="0">often@DESKTOP-BMCMN2R:C:\Users\Jiayi\AppData\Local\Temp\WorkbenchLogs\CoreEvents30180.log</ArrayEntry>
+      <ArrayEntry Index="1">often@DESKTOP-BMCMN2R:C:\Users\Jiayi\AppData\Local\Temp\WorkbenchLogs\CoreEvents20088.log</ArrayEntry>
+      <ArrayEntry Index="2">often@DESKTOP-BMCMN2R:C:\Users\Jiayi\AppData\Local\Temp\WorkbenchLogs\CoreEvents27396.log</ArrayEntry>
+      <ArrayEntry Index="3">often@DESKTOP-BMCMN2R:C:\Users\Jiayi\AppData\Local\Temp\WorkbenchLogs\CoreEvents30612.log</ArrayEntry>
+      <ArrayEntry Index="4">often@DESKTOP-BMCMN2R:C:\Users\Jiayi\AppData\Local\Temp\WorkbenchLogs\CoreEvents36280.log</ArrayEntry>
+      <ArrayEntry Index="5">often@DESKTOP-BMCMN2R:C:\Users\Jiayi\AppData\Local\Temp\WorkbenchLogs\CoreEvents16712.log</ArrayEntry>
+      <ArrayEntry Index="6">often@DESKTOP-BMCMN2R:C:\Users\Jiayi\AppData\Local\Temp\WorkbenchLogs\CoreEvents17456.log</ArrayEntry>
+    </logHistory>
+    <expression-scope-container valType="String">Parameters</expression-scope-container>
+    <project-type valType="String">WB2</project-type>
+    <project-id valType="String">dcea5da2-5f62-419e-9650-cd0c1988a32e</project-id>
+    <ReferenceCache>
+      <ProjectReferenceList>
+        <ReferenceList valType="String">{
+"b5ab344d-1ccc-4e67-bffa-90954e24340e": "/FileContainer/FileReference:F2",
+"0671c92d-a954-4d60-b273-2c3e320bad50": "/FileContainer/FileReference:F7",
+"462dd9e2-7d5b-4bfc-b51a-3d1fa36d3c29": "/FileContainer/FileReference:F1",
+"a7affc5f-fc2b-41fc-9f2d-3f96cceb171f": "/FileContainer/FileReference:F6",
+"aed4ca39-b8b8-4736-97ef-2f366ed37e23": "/FileContainer/FileReference:F3",
+"c98b9878-d3f5-4543-b273-d175442ea17b": "/FileTypesContainer/FileType:GeometryFileType",
+"618bab20-6a41-4bde-a25d-357d75dbcea4": "/FileTypesContainer/FileType:EngineeringData",
+"b403e129-92f3-40e8-ba9d-2730c67a1116": "/FileTypesContainer/FileType:project",
+"d66a646e-43fb-40b3-8cea-ac3906a942e5": "/FileTypesContainer/FileType:ACTDatabase",
+"8752b280-947f-4fdb-974e-8528b837e721": "/FileTypesContainer/FileType:MechanicalFileType",
+"46935649-ec92-450c-8bf0-1c45e5580a36": "/Schematic/Component:Engineering Data",
+"e9f04398-3cb1-4bd4-ab9b-f9a655e3c6c0": "/Schematic/Component:Geometry",
+"fc110890-cdc7-46a0-87c6-b15d0da88703": "/Schematic/Component:Model",
+"87df4bba-a9ce-48ce-b745-d8c5b4b076f4": "/Schematic/Component:Setup",
+"4f7e81bf-eedd-4abe-b9c2-57753ac9e7a6": "/Schematic/Component:Solution",
+"c423462d-a76a-496b-abbc-0e49c94ff4ba": "/Schematic/Component:Results",
+"87e08e65-82fa-44d5-8a59-6ee0f2fa247e": "/Schematic/Template:Transient Structural (ANSYS)",
+"e62516d8-7d6e-4edb-a98b-06e9d02477e0": "/Schematic/Template:Fluid Flow (CFX)",
+"1a58d2a0-5a06-45ec-a279-2f762683494e": "/Schematic/Template:Static Structural (ANSYS)",
+"c1d6ff58-26a3-4380-91e2-84008e4b6e86": "/Schematic/Template:Fluid Flow",
+"608deecd-1fec-4941-bf71-586a5c566492": "/Schematic/Template:Steady-State Thermal (ANSYS)",
+"1ada02a6-0353-49d2-bc0a-c261b365de41": "/Schematic/Template:Modal (ANSYS)",
+"2472d1af-2d37-4748-b45b-9b0a2dc4f13e": "/Schematic/Template:Random Vibration (ANSYS)",
+"2f05a305-6c71-4b19-873d-ba1e13674458": "/Schematic/Template:Response Spectrum (ANSYS)",
+"9be007d2-b541-48f0-b7cc-cd287b6e5c12": "/Schematic/Template:Transient Thermal (ANSYS)",
+"6078d563-76f5-40a1-8321-3f1a9975109f": "/Schematic/ComponentTemplate:EngDataCellTemplate",
+"a2f4306d-88ba-444e-aa52-6994cacacf59": "/Schematic/System:SYS",
+"ec973fce-0c1e-46f8-ad6f-6c0627c88d7f": "/Schematic/ComponentTemplate:GeometryCellTemplate",
+"f449e136-0367-4f88-8143-6dcd85d903ab": "/Schematic/ComponentTemplate:SimulationModelCellTemplate",
+"44880eaf-0ffd-49ed-8ae6-4cbbf65122b1": "/Schematic/ComponentTemplate:SimulationSetupCellTemplate_StructuralTransientANSYS",
+"6db33dfe-d717-470c-942d-e32d246e1272": "/Schematic/ComponentTemplate:SimulationSolutionCellTemplate_StructuralTransientANSYS",
+"38f18cfd-e8da-4b4d-a36c-170301b9ae26": "/Schematic/ComponentTemplate:SimulationResultsCellTemplate_StructuralTransientANSYS"
+}</ReferenceList>
+      </ProjectReferenceList>
+      <DesignPointReferenceListCollection>
+        <DesignPointReferenceList Name="0">
+          <ReferenceList valType="String">{
+"8bf1a300-433a-4c92-b1ee-eb8b380a25e5": "/Engineering Data/ResourceTransferData:TransferData_material",
+"217bfd95-cfef-4879-9df8-cee97fcf5b57": "/Engineering Data/Material:Structural Steel",
+"168faad8-14d3-4d63-8209-ccf7b1f63c78": "/Engineering Data/MaterialProperty:Appearance",
+"35850077-f29b-45b0-92f3-06fe1ad07275": "/Engineering Data/MaterialPropertyData:Color",
+"86e4e6b5-da7b-4ae4-ba3a-fd50ae61e848": "/Engineering Data/MaterialVariable:Red",
+"270a6960-0c35-4965-a2e2-548f8fb458db": "/Engineering Data/MaterialVariable:Green",
+"a8ca94d3-c749-426e-8fa3-717bf4582411": "/Engineering Data/MaterialVariable:Blue",
+"1e226516-fb33-4092-a6a2-d6557101a0c4": "/Engineering Data/MaterialProperty:Compressive Ultimate Strength",
+"f4547c17-df06-4f95-996e-72b0e0fea336": "/Engineering Data/MaterialPropertyData:Compressive Ultimate Strength",
+"0937e26b-487c-422f-8b1c-5be0906ded15": "/Engineering Data/MaterialVariable:Compressive Ultimate Strength",
+"9ee495a7-a681-4c82-aa51-e1263d406454": "/Engineering Data/MaterialProperty:Compressive Yield Strength",
+"b9d47d0c-8276-47fc-9a62-abbde3b99b10": "/Engineering Data/MaterialPropertyData:Compressive Yield Strength",
+"790c369d-3be2-436c-bb5d-1f3f2706baa0": "/Engineering Data/MaterialVariable:Compressive Yield Strength",
+"e58be7ba-2c9b-478d-b326-e2ac25cbcfee": "/Engineering Data/MaterialProperty:Density",
+"4d388ad1-1624-4d7e-a830-49ef54ae227d": "/Engineering Data/MaterialPropertyData:Density",
+"32c96eaa-da0b-4015-9a3b-bc435c54ef52": "/Engineering Data/MaterialVariable:Density",
+"c17db089-a0c7-4263-a02d-b61e5d2d8881": "/Engineering Data/MaterialVariable:Temperature",
+"18527bd9-7f00-4373-89b7-7eb67fef4a55": "/Engineering Data/MaterialVariable:Interpolation Options",
+"2e37132b-a3c4-4c05-ab32-7d329041a7b8": "/Engineering Data/MaterialProperty:Tensile Yield Strength",
+"25907a3b-034e-45c1-b134-4ba6e46c0aac": "/Engineering Data/MaterialPropertyData:Tensile Yield Strength",
+"903553c1-b4e3-4af4-b445-006c76cee462": "/Engineering Data/MaterialVariable:Tensile Yield Strength",
+"ba5b79c7-e1a6-4b6c-8503-07983ee3b123": "/Engineering Data/MaterialProperty:Tensile Ultimate Strength",
+"0d798d2e-6848-4386-a96c-87fd8da9c917": "/Engineering Data/MaterialPropertyData:Tensile Ultimate Strength",
+"6b887aae-f067-47ce-af94-7a41a5e050ef": "/Engineering Data/MaterialVariable:Tensile Ultimate Strength",
+"aafbcb52-a992-45b7-a1be-7fe2e7ea7002": "/Engineering Data/MaterialProperty:Coefficient of Thermal Expansion",
+"6bbcf1c7-d053-4d12-94f1-852de1136091": "/Engineering Data/MaterialPropertyData:Coefficient of Thermal Expansion",
+"98a2ce15-f091-4efe-804c-b7488d77f302": "/Engineering Data/MaterialVariable:Coefficient of Thermal Expansion",
+"f042d5f1-0fc5-4957-97ff-e42f7a55e5ba": "/Engineering Data/MaterialVariable:Temperature 1",
+"0b10c1f5-a067-4d6f-acd7-aa75961e5088": "/Engineering Data/MaterialVariable:Interpolation Options 1",
+"dcae48b3-83b2-432a-8597-3a73d6c9e6bf": "/Engineering Data/MaterialPropertyData:Zero-Thermal-Strain Reference Temperature",
+"bc044704-79c2-4115-8cf5-a2e2c221f2d0": "/Engineering Data/MaterialVariable:Zero-Thermal-Strain Reference Temperature",
+"f906b326-2bda-4045-b97f-c2a7d8c1b14d": "/Engineering Data/MaterialProperty:Specific Heat",
+"f378670d-6fbc-43c5-8a78-5af86805561e": "/Engineering Data/MaterialPropertyData:Specific Heat",
+"a7220fca-c4df-495e-9ec8-abbe3af948c6": "/Engineering Data/MaterialVariable:Specific Heat",
+"f5556013-ffc1-411b-bd49-4cddf2243857": "/Engineering Data/MaterialVariable:Temperature 2",
+"553943a1-c44a-4d55-805a-32a022e3a079": "/Engineering Data/MaterialVariable:Interpolation Options 2",
+"aa6c6398-8ac6-43b8-9bcd-b04d0f2c21f5": "/Engineering Data/MaterialProperty:Thermal Conductivity",
+"890be7f4-571a-499c-9c63-76a55af39fdb": "/Engineering Data/MaterialPropertyData:Thermal Conductivity",
+"13e1b259-7282-4c41-82c8-9171da989cbf": "/Engineering Data/MaterialVariable:Thermal Conductivity",
+"0a5c2728-a256-4951-b46d-2b2dade04b64": "/Engineering Data/MaterialVariable:Temperature 3",
+"15d2a178-ad7a-4c92-8681-19876e92e22e": "/Engineering Data/MaterialVariable:Interpolation Options 3",
+"7d45ba13-7b97-4142-b4bb-34004e788220": "/Engineering Data/MaterialProperty:S-N Curve",
+"caef7b08-0c5d-4e96-a41a-4a804f55b239": "/Engineering Data/MaterialPropertyData:S-N Curve",
+"fe4348be-45c1-4423-bc19-c0710074683f": "/Engineering Data/MaterialVariable:Alternating Stress",
+"4d222020-3584-4436-882a-a17c2d1386b9": "/Engineering Data/MaterialVariable:Cycles",
+"c056ea3b-24b4-4500-9dc0-498ea188b8f2": "/Engineering Data/MaterialVariable:Mean Stress",
+"36cbca2d-02e1-4ad2-a243-517ecd708275": "/Engineering Data/MaterialProperty:Strain-Life Parameters",
+"fb6fda50-3415-4352-8f33-5a69f1f02dc6": "/Engineering Data/MaterialPropertyData:Strain-Life Parameters",
+"e8880412-9119-4073-a810-c3fc20a7a6ec": "/Engineering Data/MaterialVariable:Strength Coefficient",
+"5ac157f2-3f76-4fe1-b25e-8223e83f609a": "/Engineering Data/MaterialVariable:Strength Exponent",
+"37852b83-5be5-4555-8c7b-8fbc91a51e7a": "/Engineering Data/MaterialVariable:Ductility Coefficient",
+"422aad1d-48a3-4b13-a366-e7a7ee3da223": "/Engineering Data/MaterialVariable:Ductility Exponent",
+"3816faee-722d-491b-bb1e-7ed0a61a5615": "/Engineering Data/MaterialVariable:Cyclic Strength Coefficient",
+"f19214fc-5904-40dc-b032-12a8dde11868": "/Engineering Data/MaterialVariable:Cyclic Strain Hardening Exponent",
+"a14e7605-3128-4e92-8f49-66d3cffe80b9": "/Engineering Data/MaterialProperty:Resistivity",
+"6e607295-c966-43f8-8da8-60a2017bf1c6": "/Engineering Data/MaterialPropertyData:Resistivity",
+"20b08326-c617-43f5-a30e-52031d4ae6a6": "/Engineering Data/MaterialVariable:Resistivity",
+"3b8f4555-abaa-4789-8ae1-5a83cd08a606": "/Engineering Data/MaterialVariable:Temperature 4",
+"aeaf8424-4aa5-4741-b684-1af7c87019e9": "/Engineering Data/MaterialProperty:Elasticity",
+"7dfef180-5de5-4f39-ae34-c192a75cf45d": "/Engineering Data/MaterialPropertyData:Elasticity",
+"7853e100-c384-4e8f-a12f-d8fb6495fa20": "/Engineering Data/MaterialVariable:Young's Modulus",
+"3e100f82-ae37-48f2-9b1c-4b3c53a33c7a": "/Engineering Data/MaterialVariable:Poisson's Ratio",
+"3611e3cc-5890-40f7-a365-19ff39603c93": "/Engineering Data/MaterialVariable:Bulk Modulus",
+"9820ea1c-9793-4b9e-bd14-8798989f38c3": "/Engineering Data/MaterialVariable:Shear Modulus",
+"7e074b55-946b-4b34-819e-3496c4eced8b": "/Engineering Data/MaterialVariable:Temperature 5",
+"f8d09f1d-29d2-463a-8e9b-3c9d2a646ab7": "/Engineering Data/MaterialVariable:Interpolation Options 4",
+"e4e7b2a5-c2b4-4d13-bb9c-1c5fe0805a6d": "/Engineering Data/MaterialProperty:Relative Permeability",
+"1bb98363-f42e-438b-ac16-5733dfc4ed24": "/Engineering Data/MaterialPropertyData:Relative Permeability",
+"fbcd60b2-61ea-4200-84c8-f866c5ec9754": "/Engineering Data/MaterialVariable:Relative Permeability",
+"c7617076-17b6-4fc6-981d-dff2fbf3fd53": "/Engineering Data/MaterialProperty:Material Unique Id",
+"c12328ed-2d74-4733-9e56-3efe2d7ca48f": "/Engineering Data/MaterialPropertyData:Material Unique Id",
+"aa5a7843-b6c3-4c0c-b9f5-3ab858948dd3": "/Engineering Data/Material:Aluminum Alloy",
+"784fffb1-6441-4100-af98-61d3ce680c51": "/Engineering Data/MaterialProperty:Appearance 1",
+"c1341aa7-083a-483d-bcfa-c942b924b035": "/Engineering Data/MaterialPropertyData:Color 1",
+"dccef1ae-c054-4bdc-94db-bfdd011ad7dc": "/Engineering Data/MaterialVariable:Red 1",
+"f5d45446-1567-4e2b-8c7a-cc7293dc7597": "/Engineering Data/MaterialVariable:Green 1",
+"b73cdda0-aa77-4627-8ce6-8ba89efc98de": "/Engineering Data/MaterialVariable:Blue 1",
+"4d7fb81a-712d-47e5-ae3f-2fc69e3ad6c1": "/Engineering Data/MaterialProperty:Compressive Ultimate Strength 1",
+"6b8fd1e1-48de-4cd6-afc0-f10fead11881": "/Engineering Data/MaterialPropertyData:Compressive Ultimate Strength 1",
+"27df1dea-f375-444c-bd1a-0c8c1afdba8e": "/Engineering Data/MaterialVariable:Compressive Ultimate Strength 1",
+"01feeffc-4647-47dd-b546-93d6d0ec414a": "/Engineering Data/MaterialProperty:Compressive Yield Strength 1",
+"97e6c4dc-daf5-4c56-a869-a049d152ef18": "/Engineering Data/MaterialPropertyData:Compressive Yield Strength 1",
+"be60474f-fc5b-4236-8da3-19ec50f34e4d": "/Engineering Data/MaterialVariable:Compressive Yield Strength 1",
+"53a8be20-0aa4-4e89-ad95-80ea8e5e3b3f": "/Engineering Data/MaterialProperty:Density 1",
+"a2909e89-3e09-4a21-bb59-d7f460759a2e": "/Engineering Data/MaterialPropertyData:Density 1",
+"8ce75498-0e41-44e7-bf3f-f0aec644bb61": "/Engineering Data/MaterialVariable:Density 1",
+"a42dab69-ea38-45d9-b15f-8f51dc6a5009": "/Engineering Data/MaterialVariable:Temperature 6",
+"06c52d29-3333-4a42-beaa-e2a8b6fe95e9": "/Engineering Data/MaterialVariable:Interpolation Options 5",
+"e6e764f4-790c-4f6e-bd4d-9d60a7c955f4": "/Engineering Data/MaterialProperty:Tensile Yield Strength 1",
+"ef9077ff-5f7a-43f8-a656-d6ba55029972": "/Engineering Data/MaterialPropertyData:Tensile Yield Strength 1",
+"a084d6a3-355f-4e2c-b747-8181dd8db554": "/Engineering Data/MaterialVariable:Tensile Yield Strength 1",
+"76f1d7e8-9a4a-4c80-8dcd-6a7460a2ef8c": "/Engineering Data/MaterialProperty:Tensile Ultimate Strength 1",
+"0e6c8ef5-4b42-476d-a3b4-54e6d9301024": "/Engineering Data/MaterialPropertyData:Tensile Ultimate Strength 1",
+"643c6608-4cb3-423a-9ab0-5c66bae4ca0e": "/Engineering Data/MaterialVariable:Tensile Ultimate Strength 1",
+"e9f7f587-5327-4d5d-95ec-eda926598ba1": "/Engineering Data/MaterialProperty:Coefficient of Thermal Expansion 1",
+"c9d7af2e-53fd-451e-ba61-78adeae40aab": "/Engineering Data/MaterialPropertyData:Coefficient of Thermal Expansion 1",
+"e6813273-1071-4f87-b681-cf1d2027b29e": "/Engineering Data/MaterialVariable:Coefficient of Thermal Expansion 1",
+"0cb8d02e-5b44-4eaf-b5b4-9e047c005beb": "/Engineering Data/MaterialVariable:Temperature 7",
+"5bb0b22e-5d29-4e61-bdd3-2cb2b8b4ce2e": "/Engineering Data/MaterialVariable:Interpolation Options 6",
+"51dedaaa-4f06-4195-aaab-096b33848466": "/Engineering Data/MaterialPropertyData:Zero-Thermal-Strain Reference Temperature 1",
+"f2faebd0-585b-4b46-90ef-9540d440eec1": "/Engineering Data/MaterialVariable:Zero-Thermal-Strain Reference Temperature 1",
+"04e87214-d6dd-4658-80ee-c97e2bc59415": "/Engineering Data/MaterialProperty:Specific Heat 1",
+"6f62aab6-c134-4a4a-9bb7-c8b71c04561e": "/Engineering Data/MaterialPropertyData:Specific Heat 1",
+"76beff75-4897-4a0a-9402-0dfe1dfe8646": "/Engineering Data/MaterialVariable:Specific Heat 1",
+"86847273-905b-498b-bd37-d8de06a4462f": "/Engineering Data/MaterialVariable:Temperature 8",
+"8dd9c294-5fc8-488f-9388-2b02eae4f369": "/Engineering Data/MaterialVariable:Interpolation Options 7",
+"5f67df2f-aebe-4ddc-bc50-cb59b3c3fea7": "/Engineering Data/MaterialProperty:Thermal Conductivity 1",
+"d06214cd-959a-4d4a-b8c1-c89627c588b9": "/Engineering Data/MaterialPropertyData:Thermal Conductivity 1",
+"8bb11c31-42e2-4145-8c48-cd1f988fe60c": "/Engineering Data/MaterialVariable:Thermal Conductivity 1",
+"c54566e4-8698-472a-8257-9ae829ec07f4": "/Engineering Data/MaterialVariable:Temperature 9",
+"a818f29c-9f0a-474d-96fe-427cfaabb47d": "/Engineering Data/MaterialVariable:Interpolation Options 8",
+"4b992268-1dd5-441a-9231-82cfc19d8262": "/Engineering Data/MaterialProperty:S-N Curve 1",
+"ffda5003-3276-4bec-bb28-de247d3aaa0f": "/Engineering Data/MaterialPropertyData:S-N Curve 1",
+"4c8c82ec-8ef8-4444-896b-5bd04fb8596b": "/Engineering Data/MaterialVariable:Alternating Stress 1",
+"803f4054-fc26-4382-b761-94da6ed52088": "/Engineering Data/MaterialVariable:Cycles 1",
+"8cee3da0-e3d9-47af-9feb-a8dee221ca7e": "/Engineering Data/MaterialVariable:R-Ratio",
+"99369212-e2db-4bda-906a-4aa396943aee": "/Engineering Data/MaterialProperty:Resistivity 1",
+"93d81b3c-ba59-4408-a575-5e851dae77cc": "/Engineering Data/MaterialPropertyData:Resistivity 1",
+"ba458f7d-26c3-44f6-9df0-f2e191452618": "/Engineering Data/MaterialVariable:Resistivity 1",
+"4b91f68e-0ff7-491a-b089-5ba06a0f7f21": "/Engineering Data/MaterialVariable:Temperature 10",
+"82175835-483a-4b1b-b6ea-b35f94f39ddc": "/Engineering Data/MaterialProperty:Elasticity 1",
+"5cb44661-9eef-4161-8580-31f516febeb2": "/Engineering Data/MaterialPropertyData:Elasticity 1",
+"03922e5b-affd-4df2-929c-2d224dd44f19": "/Engineering Data/MaterialVariable:Young's Modulus 1",
+"2e9e75cf-be44-4c5f-9da3-53615bc9cc57": "/Engineering Data/MaterialVariable:Poisson's Ratio 1",
+"0c075489-dd5c-470e-bcdb-48da2422d8cd": "/Engineering Data/MaterialVariable:Bulk Modulus 1",
+"af76fc9a-eaad-4d0f-8f42-2e4d391f9436": "/Engineering Data/MaterialVariable:Shear Modulus 1",
+"0c73300d-21eb-4c3e-94d9-73209841cf2a": "/Engineering Data/MaterialVariable:Temperature 11",
+"5851daad-1afa-481e-9ca0-51d2e8e362c3": "/Engineering Data/MaterialVariable:Interpolation Options 9",
+"ceec4ae8-0e93-415d-9ab6-e8c97975ff81": "/Engineering Data/MaterialProperty:Relative Permeability 1",
+"fbb17298-4402-407f-87b3-dff06f76bb10": "/Engineering Data/MaterialPropertyData:Relative Permeability 1",
+"bbc15e89-836d-449a-bd00-ec904f88e7b8": "/Engineering Data/MaterialVariable:Relative Permeability 1",
+"e119c342-e7e6-4b9a-9e9c-3a89daa8d42f": "/Engineering Data/MaterialProperty:Material Unique Id 1",
+"22197c50-f37b-474a-b852-a6220b8d4b20": "/Engineering Data/MaterialPropertyData:Material Unique Id 1",
+"b36f8424-3f81-4c9a-90f6-6850e6e3d70d": "/Geometry/Geometry:GeometryDataObject",
+"a497252f-2484-431e-afe3-e6863ef68986": "/Model/MechanicalModel:MechanicalModel",
+"34405ddb-be2f-4fb2-87d3-8e973740d1b2": "/Setup/SimulationSetup:SetupObject for Structural|Transient|ANSYS",
+"60adc3c1-44ba-48e7-8cf2-05ee68cd3f20": "/Solution/SimulationSolution:SolutionObject for Structural|Transient|ANSYS",
+"b6f4dd2f-48bd-41c2-b963-1aaadef1c17c": "/Results/SimulationResults:ResultsObject for Structural|Transient|ANSYS",
+"469e70d9-5f74-45a8-beb4-f2e76f433551": "/Model/SimulationEngineeringData:SimulationEngineeringDataObject",
+"41883ae0-db6a-4ad6-8e7a-98c84a9c60b3": "/Model/SimulationModelGeneratedMesh:SimulationModelGeneratedMesh",
+"79a90acb-95d2-4447-a363-a74c60547ae7": "/Model/SimulationModelGeneratedPMDB:SimulationModelGeneratedPMDB",
+"e546d828-5c21-4fab-a4c7-ecb34f2c7c7b": "/Model/SimulationGeneratedSolidMesh:SimulationGeneratedSolidMesh",
+"b3291e53-7439-4762-a035-5b56e2bd527b": "/Engineering Data/EngineeringData:Engineering Data",
+"6500d04e-d921-408e-9396-9be332af03ef": "/Results/SimulationResultsStlZip:SimulationResultsStlZip",
+"f5768269-a092-4e4f-925f-66e17de85585": "/Results/TopologyOptimizationResultsCDB:TopologyOptimizationResultsCDB",
+"93541f03-bd81-42e0-96ce-ae8d9d41ea85": "/Results/ExternalModelOutput:ExternalModelOutput"
+}</ReferenceList>
+        </DesignPointReferenceList>
+      </DesignPointReferenceListCollection>
+    </ReferenceCache>
+  </Project>
+  <Addins>
+    <addin-list valType="String">[Ansys.ParameterManager.ParameterManagerAddin, Ansys.ProjectSchematic.ProjectSchematicAddin, Ansys.ProjectReporting.Addin, Ansys.Graphics.GraphicsAddin, Ansys.Units.Commands.Addin, Ansys.ACT.WorkBench.Addin, Ansys.Dpdb.DpdbAddin]</addin-list>
+    <Addin Name="Ansys.ParameterManager.ParameterManagerAddin" Version="7.3" />
+    <Addin Name="Ansys.ProjectSchematic.ProjectSchematicAddin" Version="13.0" />
+    <Addin Name="Ansys.ProjectReporting.Addin" Version="6.0" />
+    <Addin Name="Ansys.Graphics.GraphicsAddin" Version="1.1" />
+    <Addin Name="Ansys.Units.Commands.Addin" Version="7.1" />
+    <Addin Name="Ansys.ACT.WorkBench.Addin" Version="4.2">
+      <ExtensionsLoaded valType="StringArray">
+        <ArrayEntry Index="0">1;LSDYNA;5f463412-bd3e-484b-87e7-cbc0a665e474;LSDYNA;wbex;2021;1</ArrayEntry>
+      </ExtensionsLoaded>
+    </Addin>
+    <Addin Name="Ansys.Dpdb.DpdbAddin" Version="4.1">
+      <is-optional-on-resume valType="Boolean">true</is-optional-on-resume>
+    </Addin>
+  </Addins>
+  <Containers>
+    <container-map valType="String">{"FileContainer": Project:FileContainer, "Messages": Project:Messages, "Parameters": Ansys.ParameterManager.ParameterManagerAddin:parameters, "Schematic": Ansys.ProjectSchematic.ProjectSchematicAddin:Default, "ReportDataContainer": Ansys.ProjectReporting.Addin:ReportDataContainer, "Graphics": Ansys.Graphics.GraphicsAddin:graphics, "Units": Ansys.Units.Commands.Addin:Units, "DpdbContainer": Ansys.Dpdb.DpdbAddin:DpdbContainer}</container-map>
+    <static-container-ids valType="String">{"FileContainer": FileManager, "Parameters": Parameters, "Schematic": Schematic, "ReportDataContainer": ReportDataContainer, "Graphics": Graphics, "Units": Units, "DpdbContainer": DpdbContainer}</static-container-ids>
+    <Container Name="FileContainer" Version="1.0">
+      <container-type valType="String">Project:FileContainer</container-type>
+      <static-id valType="String">FileManager</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 15533, "Input": 1470, "Output": 1470}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/FileContainer/FileReference:F1" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F1</object-name>
+        <member-data valType="String">{"DisplayText": "Gearsim.STEP", "FileType": $$c98b9878-d3f5-4543-b273-d175442ea17b, "DependentFiles": [], "ContainerAssociations": ["Geometry"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"F:\Drafts\Ansys\Gearsim\Gearsim.STEP", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F2" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F2</object-name>
+        <member-data valType="String">{"DisplayText": "material.engd", "FileType": $$618bab20-6a41-4bde-a25d-357d75dbcea4, "DependentFiles": [], "ContainerAssociations": ["Engineering Data"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS\ENGD\material.engd", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F3" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F3</object-name>
+        <member-data valType="String">{"DisplayText": "SYS.engd", "FileType": $$618bab20-6a41-4bde-a25d-357d75dbcea4, "DependentFiles": [], "ContainerAssociations": ["Model"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\global\MECH\SYS.engd", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F4" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F4</object-name>
+        <member-data valType="String">{"DisplayText": "Gearsim2.wbpj", "FileType": $$b403e129-92f3-40e8-ba9d-2730c67a1116, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": "$(ProjectName).wbpj", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F5" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F5</object-name>
+        <member-data valType="String">{"DisplayText": "act.dat", "FileType": $$d66a646e-43fb-40b3-8cea-ac3906a942e5, "DependentFiles": [], "ContainerAssociations": [], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\act.dat", "ReferenceCount": 31}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F6" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F6</object-name>
+        <member-data valType="String">{"DisplayText": "SYS.mechdb", "FileType": $$8752b280-947f-4fdb-974e-8528b837e721, "DependentFiles": [], "ContainerAssociations": ["Model"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\global\MECH\SYS.mechdb", "ReferenceCount": 1}</member-data>
+      </Object>
+      <Object Name="/FileContainer/FileReference:F7" Version="1.0">
+        <class-type valType="String">FileReference</class-type>
+        <object-name valType="String">F7</object-name>
+        <member-data valType="String">{"DisplayText": "EngineeringData.xml", "FileType": $$618bab20-6a41-4bde-a25d-357d75dbcea4, "DependentFiles": [], "ContainerAssociations": ["Engineering Data"], "SkipForDesignPointDuplication": False, "IsDeletable": True, "ExternalSource": None, "LastDownloadFromRepository": -1, "Location": r"$(ProjectName)_files\dp0\SYS\ENGD\EngineeringData.xml", "ReferenceCount": 1}</member-data>
+      </Object>
+    </Container>
+    <Container Name="Messages" Version="1.0">
+      <container-type valType="String">Project:Messages</container-type>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 16967, "Input": 1471, "Output": 1471}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Messages/StoredMessage:Message" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\CAERep.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 1" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 1</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\CAERepOutput.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 2" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 2</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\ds.dat""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 3" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 3</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file.cnd""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 4" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 4</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file.rcn""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 5" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 5</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file0.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 6" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 6</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file1.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 7" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 7</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file1.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 8" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 8</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file10.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 9" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 9</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file10.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 10" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 10</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file11.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 11" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 11</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file11.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 12" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 12</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file12.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 13" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 13</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file12.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 14" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 14</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file2.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 15" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 15</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file2.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 16" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 16</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file3.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 17" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 17</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file3.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 18" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 18</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file4.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 19" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 19</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file4.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 20" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 20</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file5.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 21" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 21</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file5.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 22" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 22</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file6.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 23" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 23</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file6.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 24" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 24</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file7.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 25" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 25</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file7.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 26" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 26</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file8.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 27" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 27</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file8.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 28" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 28</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file9.err""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 29" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 29</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file9.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 30" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 30</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\MatML.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 31" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 31</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+F:\Drafts\Ansys\Gearsim\Gearsim2_files\dp0\global\MECH\SYS\接触工具\solve.out""", "Details": None, "Association": "", "DateTimeStamp": 04/17/2026 23:58:57, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 32" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 32</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\CAERep.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 33" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 33</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\CAERepOutput.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 34" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 34</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\ds.dat""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 35" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 35</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file.cnd""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 36" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 36</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file.rcn""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 37" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 37</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file0.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 38" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 38</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file1.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 39" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 39</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file1.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 40" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 40</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file10.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 41" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 41</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file10.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 42" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 42</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file11.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 43" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 43</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file11.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 44" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 44</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file12.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 45" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 45</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file12.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 46" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 46</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file2.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 47" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 47</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file2.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 48" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 48</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file3.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 49" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 49</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file3.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 50" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 50</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file4.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 51" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 51</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file4.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 52" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 52</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file5.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 53" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 53</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file5.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 54" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 54</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file6.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 55" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 55</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file6.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 56" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 56</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file7.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 57" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 57</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file7.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 58" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 58</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file8.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 59" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 59</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file8.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 60" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 60</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file9.err""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 61" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 61</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\file9.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 62" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 62</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\MatML.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 63" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 63</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim_files\dp0\global\MECH\SYS\接触工具\solve.out""", "Details": None, "Association": "", "DateTimeStamp": 04/18/2026 18:58:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 64" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 64</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\CAERep.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 65" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 65</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\CAERepOutput.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 66" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 66</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\ds.dat""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 67" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 67</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file.cnd""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 68" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 68</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file.rcn""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 69" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 69</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file0.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 70" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 70</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file1.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 71" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 71</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file1.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 72" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 72</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file10.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 73" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 73</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file10.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 74" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 74</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file11.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 75" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 75</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file11.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 76" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 76</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file12.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 77" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 77</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file12.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 78" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 78</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file2.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 79" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 79</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file2.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 80" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 80</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file3.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 81" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 81</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file3.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 82" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 82</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file4.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 83" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 83</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file4.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 84" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 84</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file5.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 85" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 85</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file5.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 86" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 86</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file6.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 87" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 87</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file6.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 88" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 88</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file7.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 89" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 89</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file7.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 90" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 90</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file8.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 91" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 91</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file8.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 92" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 92</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file9.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 93" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 93</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file9.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 94" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 94</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\MatML.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 95" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 95</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\solve.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 11:43:37, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 96" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 96</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\CAERep.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 97" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 97</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\CAERepOutput.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 98" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 98</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\ds.dat""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 99" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 99</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file.cnd""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 100" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 100</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file.rcn""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 101" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 101</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file0.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 102" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 102</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file1.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 103" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 103</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file1.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 104" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 104</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file2.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 105" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 105</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file2.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 106" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 106</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file3.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 107" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 107</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file3.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 108" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 108</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file4.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 109" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 109</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file4.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 110" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 110</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file5.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 111" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 111</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file5.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 112" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 112</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file6.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 113" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 113</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file6.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 114" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 114</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file7.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 115" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 115</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file7.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 116" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 116</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file8.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 117" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 117</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file8.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 118" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 118</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\MatML.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 119" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 119</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\solve.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 13:59:06, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 120" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 120</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\CAERep.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 121" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 121</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\CAERepOutput.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 122" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 122</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\ds.dat""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 123" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 123</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file.cnd""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 124" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 124</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file.rcn""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 125" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 125</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file0.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 126" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 126</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file1.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 127" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 127</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file1.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 128" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 128</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file10.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 129" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 129</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file10.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 130" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 130</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file11.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 131" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 131</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file11.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 132" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 132</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file12.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 133" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 133</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file12.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 134" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 134</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file2.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 135" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 135</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file2.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 136" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 136</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file3.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 137" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 137</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file3.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 138" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 138</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file4.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 139" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 139</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file4.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 140" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 140</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file5.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 141" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 141</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file5.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 142" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 142</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file6.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 143" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 143</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file6.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 144" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 144</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file7.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 145" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 145</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file7.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 146" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 146</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file8.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 147" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 147</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file8.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 148" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 148</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file9.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 149" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 149</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file9.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 150" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 150</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\MatML.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 151" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 151</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\solve.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:06:15, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 152" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 152</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\CAERep.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:11, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 153" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 153</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\CAERepOutput.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:11, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 154" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 154</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\ds.dat""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:11, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 155" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 155</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file.cnd""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:11, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 156" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 156</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file.rcn""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:11, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 157" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 157</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file0.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:11, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 158" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 158</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file1.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 159" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 159</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file1.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 160" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 160</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file10.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 161" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 161</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file10.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 162" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 162</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file11.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 163" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 163</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file11.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 164" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 164</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file12.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 165" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 165</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file12.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 166" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 166</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file2.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 167" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 167</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file2.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 168" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 168</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file3.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 169" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 169</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file3.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 170" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 170</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file4.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 171" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 171</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file4.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 172" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 172</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file5.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 173" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 173</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file5.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 174" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 174</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file6.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 175" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 175</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file6.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 176" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 176</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file7.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 177" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 177</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file7.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 178" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 178</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file8.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 179" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 179</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file8.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 180" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 180</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file9.err""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 181" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 181</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\file9.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 182" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 182</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\MatML.xml""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+      <Object Name="/Messages/StoredMessage:Message 183" Version="1.0">
+        <class-type valType="String">StoredMessage</class-type>
+        <object-name valType="String">Message 183</object-name>
+        <member-data valType="String">{"DisplayText": "Message", "MessageType": "Warning", "MessageCategory": "None", "Summary": r"""在修改完下面的项目文件之前可能无法对其进行备份：
+E:\Drafts\Gearsim2_files\dp0\global\MECH\SYS\接触工具\solve.out""", "Details": None, "Association": "", "DateTimeStamp": 04/19/2026 16:51:12, "Visibility": "Warning", "MessageSourceContainer": None, "MessageSourceEntity": None, "AdditionalMessageData": None, "DesignPoint": None}</member-data>
+      </Object>
+    </Container>
+    <Container Name="Parameters" Version="1.0">
+      <container-type valType="String">Ansys.ParameterManager.ParameterManagerAddin:parameters</container-type>
+      <static-id valType="String">Parameters</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <maxUpdateOrder valType="Double">1</maxUpdateOrder>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 16986, "Input": 16987, "Output": 1474}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
+      <Object Name="/Parameters/DesignPoint:0" Version="1.0">
+        <class-type valType="String">DesignPoint</class-type>
+        <object-name valType="String">0</object-name>
+        <member-data valType="String">{"DisplayText": "DP 0", "JustDuplicated": False, "PartiallyRetainedData": [], "ValidRetainedData": [], "ErrorsOnLastUpdate": {}, "LastUpdateInformation": {}, "Parameters": {}, "ParameterErrors": {}, "CurrentValues": {}, "ParameterStatus": {}, "Note": None, "IsUpToDate": True, "Exported": True, "Retained": True, "CurrentStateExported": False, "IsDataModelValid": True, "HasRetainedData": True, "HasBeenSolved": True, "UpdateOrder": 1}</member-data>
+      </Object>
+      <Object Name="/Parameters/DesignPointReportSetting:Design Points Report Setting" Version="1.0">
+        <class-type valType="String">DesignPointReportSetting</class-type>
+        <object-name valType="String">Design Points Report Setting</object-name>
+        <member-data valType="String">{"DisplayText": "Design Points Report Setting", "DesignPointReportImage": "None"}</member-data>
+      </Object>
+      <ParameterToPropertyMap />
+    </Container>
+    <Container Name="Schematic" Version="1.0">
+      <container-type valType="String">Ansys.ProjectSchematic.ProjectSchematicAddin:Default</container-type>
+      <static-id valType="String">Schematic</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 15011, "Input": 15660, "Output": 1477}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">true</contains-significant-data>
+      <Object Name="/Schematic/System:SYS" Version="1.0">
+        <class-type valType="String">System</class-type>
+        <object-name valType="String">SYS</object-name>
+        <member-data valType="String">{"DisplayText": "瞬态结构", "Components": [$$46935649-ec92-450c-8bf0-1c45e5580a36, $$e9f04398-3cb1-4bd4-ab9b-f9a655e3c6c0, $$fc110890-cdc7-46a0-87c6-b15d0da88703, $$87df4bba-a9ce-48ce-b745-d8c5b4b076f4, $$4f7e81bf-eedd-4abe-b9c2-57753ac9e7a6, $$c423462d-a76a-496b-abbc-0e49c94ff4ba], "ComponentGroups": [], "SystemVisible": True, "RequiredComponents": [$$fc110890-cdc7-46a0-87c6-b15d0da88703, $$87df4bba-a9ce-48ce-b745-d8c5b4b076f4], "ExcludedComponentTemplates": [], "Attributes": {"PhysicsType": "Structural", "AnalysisType": "Transient", "SolverType": "ANSYS", "SolverTypeDisplayString": "Mechanical APDL", "PhysicsTypeDisplayString": "结构", "AnalysisTypeDisplayString": "瞬态", "SystemName": "Transient Structural (ANSYS)", "IsCreated": "True", "AlreadyInSystem": "Yes", "VOLATILE:SystemName": "SYS"}, "SystemType": "Transient Structural (ANSYS)", "HeaderText": "瞬态结构", "SystemTypeAbbreviation": "SYS", "UniqueSystemDirectoryName": "SYS", "Physics": [], "AnalysisType": None, "SystemHelpId": "wb2sb_ transstructAN", "AdditionalSystemHelpId": None, "IsParametric": False, "CreatedFromTemplate": $$87e08e65-82fa-44d5-8a59-6ee0f2fa247e, "Notes": None, "LayoutChildren": [], "LayoutIndex": 1}</member-data>
+      </Object>
+      <Object Name="/Schematic/SchematicSettings:Schematic Settings" Version="1.0">
+        <class-type valType="String">SchematicSettings</class-type>
+        <object-name valType="String">Schematic Settings</object-name>
+        <member-data valType="String">{"DisplayText": "Schematic Settings", "WireBundling": False, "ShowSystemCoordinates": True, "Notes": None, "SuspendCollectingRSMResult": False}</member-data>
+      </Object>
+      <Object Name="/Schematic/DesignPointSolveSettings:Design Points Update Settings" Version="1.0">
+        <class-type valType="String">DesignPointSolveSettings</class-type>
+        <object-name valType="String">Design Points Update Settings</object-name>
+        <member-data valType="String">{"DisplayText": "Design Points Update Settings", "UpdateOption": "Foreground", "RsmUserString": None, "ConfiguredQueue": {"OptionIcons": None, "OptionLabels": "Local", "Options": "Local", "ReadOnlyOptions": None, "OptionFeatureFlags": None, "OptionFilterFlags": None, "OptionLicenseFlags": None, "Value": "Local"}, "RsmJobName": "Workbench", "UpdateMethod": "Foreground", "UpdateOrder": "UpdateFromCurrentDesignPoint", "PreRSMUpdate": "Geometry", "PartialUpdate": "None", "RetainPartialUpdate": "None", "ComponentExecutionMode": "Serial", "NumberOfCoresPerJob": 2, "RetainFailedDesignPoints": False, "DesignPointRetainedOrExportedUpdate": "Parameters", "DesignPointUpdateTimeout": 0, "JobStatusCheckIntervalInSeconds": 20, "NumberOfJobsToBeCreated": 1, "NumberOfTasksToBeCreated": 1}</member-data>
+      </Object>
+      <Object Name="/Schematic/Bookkeeper:Schematic bookkeeper" Version="1.0">
+        <class-type valType="String">Bookkeeper</class-type>
+        <object-name valType="String">Schematic bookkeeper</object-name>
+        <member-data valType="String">{"DisplayText": "Schematic bookkeeper", "UpfrontLicenseCheckoutSelection": []}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:FSI: Fluid Flow (CFX) -&gt; Static Structural" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">FSI: Fluid Flow (CFX) -&gt; Static Structural</object-name>
+        <member-data valType="String">{"DisplayText": "FSI:流体(CFX) -&gt; 静态结构", "SystemTemplates": [$$e62516d8-7d6e-4edb-a98b-06e9d02477e0, $$1a58d2a0-5a06-45ec-a279-2f762683494e], "SystemNames": ["Fluid Flow (CFX)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Fluid Flow (CFX):Geometry", "Static Structural (ANSYS):Geometry"], ["Connect", "Fluid Flow (CFX):Solution:CFXTransferResultsTemplate", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Fluid Flow (CFX)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Fluid Flow (CFX)": ["Static Structural (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:FSI: Fluid Flow (FLUENT) -&gt; Static Structural" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">FSI: Fluid Flow (FLUENT) -&gt; Static Structural</object-name>
+        <member-data valType="String">{"DisplayText": "FSI:流体(FLUENT) -&gt; 静态结构", "SystemTemplates": [$$c1d6ff58-26a3-4380-91e2-84008e4b6e86, $$1a58d2a0-5a06-45ec-a279-2f762683494e], "SystemNames": ["Fluid Flow (FLUENT)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Fluid Flow (FLUENT):Geometry", "Static Structural (ANSYS):Geometry"], ["Connect", "Fluid Flow (FLUENT):Solution", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Fluid Flow (FLUENT)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Fluid Flow (FLUENT)": ["Static Structural (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Thermal-Stress" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Thermal-Stress</object-name>
+        <member-data valType="String">{"DisplayText": "热-应力", "SystemTemplates": [$$608deecd-1fec-4941-bf71-586a5c566492, $$1a58d2a0-5a06-45ec-a279-2f762683494e], "SystemNames": ["Steady-State Thermal (ANSYS)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Steady-State Thermal (ANSYS):Engineering Data", "Static Structural (ANSYS):Engineering Data"], ["Share", "Steady-State Thermal (ANSYS):Geometry", "Static Structural (ANSYS):Geometry"], ["Share", "Steady-State Thermal (ANSYS):Model", "Static Structural (ANSYS):Model"], ["Connect", "Steady-State Thermal (ANSYS):Solution", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Steady-State Thermal (ANSYS)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Steady-State Thermal (ANSYS)": ["Static Structural (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Pre-Stress Modal" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Pre-Stress Modal</object-name>
+        <member-data valType="String">{"DisplayText": "预应力模态", "SystemTemplates": [$$1a58d2a0-5a06-45ec-a279-2f762683494e, $$1ada02a6-0353-49d2-bc0a-c261b365de41], "SystemNames": ["Static Structural (ANSYS)", "Modal (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Static Structural (ANSYS):Engineering Data", "Modal (ANSYS):Engineering Data"], ["Share", "Static Structural (ANSYS):Geometry", "Modal (ANSYS):Geometry"], ["Share", "Static Structural (ANSYS):Model", "Modal (ANSYS):Model"], ["Connect", "Static Structural (ANSYS):Solution", "Modal (ANSYS):Setup"]], "LayoutIndices": {"Static Structural (ANSYS)": 1, "Modal (ANSYS)": 0}, "LayoutChildren": {"Static Structural (ANSYS)": ["Modal (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Random Vibration" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Random Vibration</object-name>
+        <member-data valType="String">{"DisplayText": "随机振动", "SystemTemplates": [$$1ada02a6-0353-49d2-bc0a-c261b365de41, $$2472d1af-2d37-4748-b45b-9b0a2dc4f13e], "SystemNames": ["Modal (ANSYS)", "Random Vibration (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Modal (ANSYS):Engineering Data", "Random Vibration (ANSYS):Engineering Data"], ["Share", "Modal (ANSYS):Geometry", "Random Vibration (ANSYS):Geometry"], ["Share", "Modal (ANSYS):Model", "Random Vibration (ANSYS):Model"], ["Connect", "Modal (ANSYS):Solution", "Random Vibration (ANSYS):Setup"]], "LayoutIndices": {"Modal (ANSYS)": 1, "Random Vibration (ANSYS)": 0}, "LayoutChildren": {"Modal (ANSYS)": ["Random Vibration (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:Response Spectrum" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">Response Spectrum</object-name>
+        <member-data valType="String">{"DisplayText": "响应谱", "SystemTemplates": [$$1ada02a6-0353-49d2-bc0a-c261b365de41, $$2f05a305-6c71-4b19-873d-ba1e13674458], "SystemNames": ["Modal (ANSYS)", "Response Spectrum (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Modal (ANSYS):Engineering Data", "Response Spectrum (ANSYS):Engineering Data"], ["Share", "Modal (ANSYS):Geometry", "Response Spectrum (ANSYS):Geometry"], ["Share", "Modal (ANSYS):Model", "Response Spectrum (ANSYS):Model"], ["Connect", "Modal (ANSYS):Solution", "Response Spectrum (ANSYS):Setup"]], "LayoutIndices": {"Modal (ANSYS)": 1, "Response Spectrum (ANSYS)": 0}, "LayoutChildren": {"Modal (ANSYS)": ["Response Spectrum (ANSYS)"]}, "Attributes": {}, "SystemDisplayTexts": {}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:AM Thermal-Structural" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">AM Thermal-Structural</object-name>
+        <member-data valType="String">{"DisplayText": "AM热-结构", "SystemTemplates": [$$9be007d2-b541-48f0-b7cc-cd287b6e5c12, $$1a58d2a0-5a06-45ec-a279-2f762683494e], "SystemNames": ["Transient Thermal (ANSYS)", "Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [["Share", "Transient Thermal (ANSYS):Engineering Data", "Static Structural (ANSYS):Engineering Data"], ["Share", "Transient Thermal (ANSYS):Geometry", "Static Structural (ANSYS):Geometry"], ["Share", "Transient Thermal (ANSYS):Model", "Static Structural (ANSYS):Model"], ["Connect", "Transient Thermal (ANSYS):Solution", "Static Structural (ANSYS):Setup"]], "LayoutIndices": {"Transient Thermal (ANSYS)": 1, "Static Structural (ANSYS)": 0}, "LayoutChildren": {"Transient Thermal (ANSYS)": ["Static Structural (ANSYS)"]}, "Attributes": {"Transient Thermal (ANSYS)": {"IsAMSystem": "True"}, "Static Structural (ANSYS)": {"IsAMSystem": "True"}}, "SystemDisplayTexts": {"Transient Thermal (ANSYS)": "AM热", "Static Structural (ANSYS)": "AM结构"}}</member-data>
+      </Object>
+      <Object Name="/Schematic/CustomProjectTemplate:AM Inherent Strain" Version="1.0">
+        <class-type valType="String">CustomProjectTemplate</class-type>
+        <object-name valType="String">AM Inherent Strain</object-name>
+        <member-data valType="String">{"DisplayText": "AM固有应变", "SystemTemplates": [$$1a58d2a0-5a06-45ec-a279-2f762683494e], "SystemNames": ["Static Structural (ANSYS)"], "ToolboxGroup": "Custom Systems", "AdditionalSystemHelpId": None, "PostCreationSteps": [], "LayoutIndices": {}, "LayoutChildren": {}, "Attributes": {"Static Structural (ANSYS)": {"IsAMSystem": "True"}}, "SystemDisplayTexts": {"Static Structural (ANSYS)": "AM固有应变"}}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Engineering Data" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Engineering Data</object-name>
+        <member-data valType="String">{"DisplayText": "工程数据", "ImageName": "EngDataComponent16x16", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Engineering Data", "_overwrittenUpdatable": None, "Template": $$6078d563-76f5-40a1-8321-3f1a9975109f, "InSystem": $$a2f4306d-88ba-444e-aa52-6994cacacf59, "MasterSources": {"Sources": []}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": None, "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Geometry" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Geometry</object-name>
+        <member-data valType="String">{"DisplayText": "几何结构", "ImageName": "cad_generic", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Geometry", "_overwrittenUpdatable": None, "Template": $$ec973fce-0c1e-46f8-ad6f-6c0627c88d7f, "InSystem": $$a2f4306d-88ba-444e-aa52-6994cacacf59, "MasterSources": {"Sources": []}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": None, "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Model" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Model</object-name>
+        <member-data valType="String">{"DisplayText": "模型", "ImageName": "model2", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Model", "_overwrittenUpdatable": None, "Template": $$f449e136-0367-4f88-8143-6dcd85d903ab, "InSystem": $$a2f4306d-88ba-444e-aa52-6994cacacf59, "MasterSources": {"Sources": [[{"DataType": "EngineeringData", "Component": $$46935649-ec92-450c-8bf0-1c45e5580a36, "Transfer": None}], [{"DataType": "Geometry", "Component": $$e9f04398-3cb1-4bd4-ab9b-f9a655e3c6c0, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Setup" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Setup</object-name>
+        <member-data valType="String">{"DisplayText": "设置", "ImageName": "setup", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Setup", "_overwrittenUpdatable": None, "Template": $$44880eaf-0ffd-49ed-8ae6-4cbbf65122b1, "InSystem": $$a2f4306d-88ba-444e-aa52-6994cacacf59, "MasterSources": {"Sources": [[{"DataType": "MechanicalModel", "Component": $$fc110890-cdc7-46a0-87c6-b15d0da88703, "Transfer": None}], [{"DataType": "MechanicalMesh", "Component": $$fc110890-cdc7-46a0-87c6-b15d0da88703, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "ANSYS", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Solution" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Solution</object-name>
+        <member-data valType="String">{"DisplayText": "求解", "ImageName": "Mechanical_Solution", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Solution", "_overwrittenUpdatable": None, "Template": $$6db33dfe-d717-470c-942d-e32d246e1272, "InSystem": $$a2f4306d-88ba-444e-aa52-6994cacacf59, "MasterSources": {"Sources": [[{"DataType": "SimulationSetup", "Component": $$87df4bba-a9ce-48ce-b745-d8c5b4b076f4, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "ANSYS", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+      <Object Name="/Schematic/Component:Results" Version="1.0">
+        <class-type valType="String">Component</class-type>
+        <object-name valType="String">Results</object-name>
+        <member-data valType="String">{"DisplayText": "结果", "ImageName": "results", "ComponentStateOnLastFailure": "UpToDate", "AlwaysBePartOfDpUpdate": False, "FullyUpToDateOnDps": None, "CoupledClients": [], "SubComponents": [], "DataSharedFrom": None, "DataSharing": "None", "DataContainer": "Results", "_overwrittenUpdatable": None, "Template": $$38f18cfd-e8da-4b4d-a36c-170301b9ae26, "InSystem": $$a2f4306d-88ba-444e-aa52-6994cacacf59, "MasterSources": {"Sources": [[{"DataType": "SimulationSolution", "Component": $$4f7e81bf-eedd-4abe-b9c2-57753ac9e7a6, "Transfer": None}]]}, "Notes": None, "UsedLicenses": None, "ActiveTransferComponents": [], "Solver": "ANSYS", "IsFailedState": False, "UpdateConditionParameter": None}</member-data>
+      </Object>
+    </Container>
+    <Container Name="ReportDataContainer" Version="1.0">
+      <container-type valType="String">Ansys.ProjectReporting.Addin:ReportDataContainer</container-type>
+      <static-id valType="String">ReportDataContainer</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1804, "Input": 1795, "Output": 1795}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+    </Container>
+    <Container Name="Graphics" Version="1.0">
+      <container-type valType="String">Ansys.Graphics.GraphicsAddin:graphics</container-type>
+      <static-id valType="String">Graphics</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 16619, "Input": 1805, "Output": 1805}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+    </Container>
+    <Container Name="Units" Version="1.0">
+      <container-type valType="String">Ansys.Units.Commands.Addin:Units</container-type>
+      <static-id valType="String">Units</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1806, "Input": 1808, "Output": 1806}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/Units/UnitSystemProjectSettings:UnitSystemProjectSettings" Version="1.0">
+        <class-type valType="String">UnitSystemProjectSettings</class-type>
+        <object-name valType="String">UnitSystemProjectSettings</object-name>
+        <member-data valType="String">{"DisplayText": "UnitSystemProjectSettings", "DataContainerUnitSystemRegistry": {}}</member-data>
+      </Object>
+      <Object Name="/Units/UnitSystem:UnitSys" Version="1.0">
+        <class-type valType="String">UnitSystem</class-type>
+        <object-name valType="String">UnitSys</object-name>
+        <member-data valType="String">{"DisplayText": "Metric (kg,m,s,°C,A,N,V)", "ChangedQuantityUnits": {}, "UnitSystemName": "MKS_STANDARD", "BaseUnitSystemName": "SI", "IsProjectUnitSystem": True, "IsDefault": False}</member-data>
+      </Object>
+    </Container>
+    <Container Name="DpdbContainer" Version="1.0">
+      <container-type valType="String">Ansys.Dpdb.DpdbAddin:DpdbContainer</container-type>
+      <static-id valType="String">DpdbContainer</static-id>
+      <storage-scheme-id valType="String">version-1-format</storage-scheme-id>
+      <deleted-sources valType="String">[]</deleted-sources>
+      <last-updated valType="Int64">0</last-updated>
+      <last-modified-by-usage valType="String">{"Extrinsic": 1812, "Input": 1809, "Output": 1809}</last-modified-by-usage>
+      <outputs-generated-by-type valType="String">{}</outputs-generated-by-type>
+      <contains-significant-data valType="Boolean">false</contains-significant-data>
+      <Object Name="/DpdbContainer/DpdbSettings:Dpdb Settings Entity" Version="1.0">
+        <class-type valType="String">DpdbSettings</class-type>
+        <object-name valType="String">Dpdb Settings Entity</object-name>
+        <member-data valType="String">{"DisplayText": "Dpdb Settings Entity", "ServerUrl": "https://localhost/dcs", "ServerUserName": None, "ServerPassword": None, "DatabaseName": None, "StartLocalEvaluatorOnUpdate": True, "ExecutionTime": 300, "UpdateDesignPointInSteps": False}</member-data>
+      </Object>
+    </Container>
+  </Containers>
+</Storage>
